@@ -1,11 +1,9 @@
-GLOBAL 
+Nationwide (global) 
 
 https://www.data.gov/business/
-http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#37b60be76796
 http://aws.amazon.com/datasets/
 http://www.datasets.co/
 https://cloud.google.com/bigquery/public-data/
-https://blog.bigml.com/list-of-public-data-sources-fit-for-machine-learning/
 https://www.openhumans.org/research/
 http://sunlightfoundation.com/api/
 
@@ -17,6 +15,8 @@ http://gsa.state.al.us/gsa/geologichazards/AL_GIS_Data.htm
 
 Alaska
 
+http://data.scottsdaleaz.gov
+
 Arizona 
 
 Arkansas
@@ -24,6 +24,11 @@ Arkansas
 California 
 
 https://data.sfgov.org/
+http://www.kelowna.ca/CM/Page3936.aspx
+https://www.hamilton.ca/city-initiatives/strategies-actions/open-accessible-data
+http://www.fredericton.ca/en/citygovernment/TermsOfUse.asp
+https://data.edmonton.ca
+http://data.cityofsantacruz.com
 
 Colorado 
 
@@ -63,6 +68,8 @@ https://data.baltimorecity.gov/
 
 Massachusetts
 
+https://data.somervillema.gov
+
 Michigan
 
 Minnesota
@@ -93,6 +100,7 @@ https://nycopendata.socrata.com/
 North Carolina 
 
 http://data.ashevillenc.gov/
+http://www.raleighnc.gov/open
 
 North Dakota 
 
@@ -123,6 +131,8 @@ Vermont
 Virginia 
 
 Washington
+
+https://data.seattle.gov
 
 West Virginia
 
