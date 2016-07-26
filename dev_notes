@@ -1,9 +1,13 @@
-There is so much free data out there the idea behind here is to make these resources easily searchable. When I say eas
-They are similar search engines out there but but the all contain resources that are paid or in PDF format etc. For the mnost part most programers are to lazy to work, we dont want those.
+There is so much free data out there the idea behind here is to make these resources easily searchable and consumable. Th
+They are similar search engines out there but but the all contain resources that are paid or in PDF format etc. N
 
-Group of free avaiable APIs and datasources for programmer. Must all be easily consumable no PDF, word etc.
 
+Data Todos:
 
 * Make list of sites consumable by json
+
+Front end Todos:
+
 * CSE search at first, then go to a custom CSE foramt.
+
 
