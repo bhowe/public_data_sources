@@ -9,7 +9,7 @@ Data Todos:
 Front end Todos:
 
 * Simple CSE search at first
-* Search by state, nationwide possible to add other resources later
+* Search by state, nationwide possible to add other resources later will need to use custom API.
 * Exclude any BS formats and websites 
 * Give the user a easy way to suggest a site you might be missing
 
