@@ -5,6 +5,7 @@ They are similar search engines out there but but the all contain resources that
 Data Todos:
 
 * Make list of sites consumable by json
+* Go set each search for each data API (https://catalog.data.gov/dataset?q=idaho&sort=views_recent+desc)
 
 Front end Todos:
 
