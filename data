@@ -167,10 +167,15 @@ https://catalog.data.gov/dataset?q=nevada&sort=views_recent+desc
 New Hampshire 
 
 https://catalog.data.gov/dataset?q=hampshire&sort=views_recent+desc
+https://www.opendatanetwork.com/entity/0400000US33/New_Hampshire/demographics.population.count?year=2014 #population data
+https://www.opendatanetwork.com/entity/0400000US33/New_Hampshire/jobs.earnings.median_earnings?year=2013 #earnings data
+https://www.nh.gov/doit/open-source/data-sets.htm #gov data for download
 
 New Jersey 
 
 https://catalog.data.gov/dataset?q=jersey&sort=views_recent+desc
+https://data.nj.gov/
+https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTo
 
 New Mexico 
 
