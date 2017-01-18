@@ -11,6 +11,7 @@ https://www.reddit.com/r/datasets/
 https://www.reddit.com/r/bigquery/wiki/datasets
 
 
+
 #people centered dataset requires signup.
 https://www.openhumans.org/research/
 
@@ -175,11 +176,14 @@ New Jersey
 
 https://catalog.data.gov/dataset?q=jersey&sort=views_recent+desc
 https://data.nj.gov/
-https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTo
+https://www.njtransit.com/mt/mt_servlet.srv?hdnPageAction=MTDevLoginTogit
+http://data.ci.newark.nj.us/dataset
 
 New Mexico 
 
 https://catalog.data.gov/dataset?q=mexicoe&sort=views_recent+desc
+https://www.opendatanetwork.com/entity/0400000US35/New_Mexico/demographics.population.count?year=2014
+https://www.opendatanetwork.com/entity/0400000US35/New_Mexico/economy.consumption.personal_consumption_expenditures?year=2014
 
 New York 
 
